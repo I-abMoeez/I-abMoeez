@@ -1,12 +1,18 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a2e,50:16213e,75:0f3460,100:533483&height=250&section=header&text=I-abMoeez&fontSize=80&fontColor=00f7ff&fontAlignY=35&desc=🤖%20AI%20Enthusiast%20|%20ML%20Engineer%20|%20Future%20Builder&descSize=20&descColor=a78bfa&descAlignY=55&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a2e,50:16213e,75:0f3460,100:533483&height=250&section=header&text=I-abMoeez&fontSize=80&fontColor=00f7ff&fontAlignY=35&desc=🤖%20AI%20Enthusiast%20%7C%20ML%20Engineer%20%7C%20Future%20Builder&descSize=20&descColor=a78bfa&descAlignY=55&animation=twinkling" width="100%"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION - FIXED -->
 <p align="center">
   <a href="https://github.com/I-abMoeez">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🌌+Welcome+To+The+Future...;🤖+AI+Makes+Our+Work+Faster+and+Easy;🚀+I+Love+Exploring+AI+%26+Machine+Learning;💡+Turning+Ideas+Into+Intelligent+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&height=50&lines=Welcome+To+The+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/I-abMoeez">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=50&lines=AI+Makes+Our+Work+Faster+and+Easy+%F0%9F%A4%96;I+Love+Exploring+AI+%26+Machine+Learning+%F0%9F%8C%8C;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%92%A1;Building+The+Future+With+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,12 +32,12 @@
 
 <pre>
 🧑‍💻 Name:        Abdul Moeez (I-abMoeez)
-🤖 Role:        AI Enthusiast | ML Engineer | Software Developer
-🌌 Mission:     Building the Future with Artificial Intelligence
-🎓 Focus:       Machine Learning, Deep Learning, NLP & Computer Vision
+🤖 Role:        AI Enthusiast | ML Engineer | Developer
+🌌 Mission:     Building the Future with AI
+🎓 Focus:       Machine Learning, Deep Learning, NLP
 🚀 Philosophy:  "AI Makes Our Work Faster and Easy"
-🌍 Location:    Planet Earth → Heading to the Stars ✨
-⚡ Fun Fact:    I debug code faster than light travels! 💫
+🌍 Location:    Planet Earth → Heading to Stars ✨
+⚡ Fun Fact:    I debug code faster than light! 💫
 </pre>
 
 <br>
@@ -120,7 +126,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<!-- FEATURED PROJECT -->
+<!-- FEATURED PROJECT - FIXED -->
 <h2 align="center">
   🚀 Featured Project — EasyMed 🏥
 </h2>
@@ -128,16 +134,18 @@
 <br>
 
 <div align="center">
+  
+<table>
+<tr>
+<td>
 
-<a href="https://github.com/I-abMoeez/EasyMed">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=I-abMoeez&repo=EasyMed&theme=midnight-purple&bg_color=0d1117&title_color=00f7ff&text_color=a78bfa&icon_color=00f7ff&border_color=533483" width="450"/>
-</a>
+### 🏥 EasyMed — AI-Powered Healthcare Platform
 
-</div>
+<img src="https://img.shields.io/badge/Status-Active-00f7ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Type-Healthcare-a78bfa?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AI-Powered-533483?style=flat-square&labelColor=0d1117" />
 
-<br>
-
-<div align="center">
+**A comprehensive medical platform that revolutionizes healthcare access through AI technology.**
 
 | 🌟 Feature | 📋 Description |
 |:---:|:---|
@@ -147,6 +155,16 @@
 | 💊 **Health Dashboard** | Personalized health insights & analytics |
 | 🔐 **Secure Records** | End-to-end encrypted medical records |
 | 🤖 **AI Diagnostics** | Smart symptom checker powered by ML |
+
+**Tech Used:**
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f7ff)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -179,7 +197,7 @@
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=I-abMoeez&bg_color=0d1117&color=00f7ff&line=a78bfa&point=00f7ff&area_color=533483&area=true&hide_border=false&custom_title=🌌%20Contribution%20Galaxy%20—%20I-abMoeez's%20Code%20Universe" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=I-abMoeez&bg_color=0d1117&color=00f7ff&line=a78bfa&point=00f7ff&area_color=533483&area=true&hide_border=false&custom_title=Contribution%20Galaxy%20%E2%80%94%20I-abMoeez%20Code%20Universe" width="95%"/>
 </p>
 
 <!-- GALAXY DIVIDER -->
@@ -187,15 +205,64 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<!-- TROPHIES -->
+<!-- TROPHIES - FIXED -->
+<!-- TROPHIES - FIXED V2 -->
 <h2 align="center">
   🏆 Achievement Trophies 🎖️
 </h2>
 
+<br>
+
+<!-- OPTION 1: Trophy with different host -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=I-abMoeez&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=I-abMoeez&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-C,-B" alt="Trophies"/>
 </p>
 
+<br>
+
+<!-- CUSTOM ACHIEVEMENT BADGES (These ALWAYS work) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_AI-Enthusiast-00f7ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🧠_ML-Engineer-a78bfa?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💻_Full_Stack-Developer-533483?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🚀_Open_Source-Contributor-00f7ff?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏥_EasyMed-Creator-a78bfa?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🐍_Python-Master-533483?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/⚛️_React-Developer-00f7ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🌌_Future-Builder-a78bfa?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+<br>
+
+<!-- ACHIEVEMENT STATS CARDS (These ALWAYS work) -->
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/I-abMoeez&color=00f7ff&labelColor=0d1117" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/I-abMoeez?style=for-the-badge&logo=github&color=a78bfa&labelColor=0d1117&label=Followers" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Repos-Public-533483?style=for-the-badge&logo=github&labelColor=0d1117" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Projects-AI%20%2F%20ML-00f7ff?style=for-the-badge&logo=openai&labelColor=0d1117" />
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- SKILL PROGRESS BARS (These ALWAYS work) -->
+<h3 align="center">⚡ Skill Levels ⚡</h3>
+
+<div align="center">
 <!-- GALAXY DIVIDER -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -239,19 +306,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-moeez-8a4531332/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Abdul%20Moeez" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/ab_moeez__/">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&label=ab_moeez__" />
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   &nbsp;
   <a href="mailto:imoeezqureshi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=imoeezqureshi" />
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   &nbsp;
   <a href="https://github.com/I-abMoeez">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&label=I--abMoeez" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -259,11 +326,13 @@
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=I-abMoeez&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS+FROM+THE+GALAXY" />
+  <img src="https://komarev.com/ghpvc/?username=I-abMoeez&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" />
   &nbsp;
   <a href="https://github.com/I-abMoeez?tab=followers">
-    <img src="https://img.shields.io/github/followers/I-abMoeez?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=GALACTIC+FOLLOWERS" />
+    <img src="https://img.shields.io/github/followers/I-abMoeez?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=FOLLOWERS" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/I-abMoeez?style=for-the-badge&color=00f7ff&labelColor=0d1117&label=TOTAL+STARS" />
 </p>
 
 <!-- SNAKE ANIMATION -->
