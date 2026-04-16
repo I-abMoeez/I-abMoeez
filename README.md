@@ -205,19 +205,56 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<!-- TROPHIES - FIXED -->
-<!-- TROPHIES - FIXED V2 -->
+<!-- TROPHIES - FIXED V3 -->
 <h2 align="center">
   🏆 Achievement Trophies 🎖️
 </h2>
 
 <br>
 
-<!-- OPTION 1: Trophy with different host -->
+<!-- CUSTOM ACHIEVEMENT BADGES (ALWAYS WORKS) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=I-abMoeez&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-C,-B" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/🤖_AI-Enthusiast-00f7ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🧠_ML-Engineer-a78bfa?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💻_Full_Stack-Developer-533483?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🚀_Open_Source-Contributor-00f7ff?style=for-the-badge&labelColor=0d1117" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🏥_EasyMed-Creator-a78bfa?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🐍_Python-Master-533483?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/⚛️_React-Developer-00f7ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🌌_Future-Builder-a78bfa?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+<br>
+
+<!-- ACHIEVEMENT STATS -->
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/github/followers/I-abMoeez?style=for-the-badge&logo=github&color=00f7ff&labelColor=0d1117&label=Followers" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Repos-Public-a78bfa?style=for-the-badge&logo=github&labelColor=0d1117" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-533483?style=for-the-badge&logo=openai&labelColor=0d1117" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Status-Active-00f7ff?style=for-the-badge&logo=statuspage&labelColor=0d1117" />
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- SKILL PROGRESS BARS -->
+<h3 align="center">⚡ Skill Levels ⚡</h3>
+
+<div align="center">
 <br>
 
 <!-- CUSTOM ACHIEVEMENT BADGES (These ALWAYS work) -->
