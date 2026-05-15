@@ -296,9 +296,6 @@
 
 <br>
 
-<!-- SKILL PROGRESS BARS (These ALWAYS work) -->
-<h3 align="center">⚡ Skill Levels ⚡</h3>
-
 <div align="center">
 <!-- GALAXY DIVIDER -->
 <p align="center">
